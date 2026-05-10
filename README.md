@@ -15,7 +15,8 @@ SQL Querying
 Exploratory Data Analysis (EDA)
 Dashboard Development
 Business Insight Generation
-🛠️ Tech Stack
+
+Tech Stack
 Python
 Pandas
 Jupyter Notebook
@@ -25,11 +26,11 @@ Power BI
 
 
 Key Features
-✔ Data Cleaning & Preparation
+-Data Cleaning & Preparation
 Processed and cleaned raw customer shopping data
 Standardized dataset for analysis
 Handled missing values and duplicates
-✔ SQL-Based Analysis
+-SQL-Based Analysis
 
 Performed analytical queries to evaluate:
 
@@ -39,7 +40,7 @@ Customer Purchase Trends
 Repeat Buyers
 Subscription-Based Customers
 Revenue by Age Group
-✔ Interactive Power BI Dashboard
+-Interactive Power BI Dashboard
 
 Developed a dashboard featuring:
 
